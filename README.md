@@ -1,7 +1,3 @@
-Here’s the improved and more **attractive Markdown version** for your **Email Spam Classification** project — matching the style you asked for (similar to the NVIDIA project layout):
-
----
-
 # 📧 Email Spam Classification 🚀
 ![DOG](https://github.com/user-attachments/assets/f8b7bb2b-06a9-4472-b406-7b3f7234f2d8)
 
